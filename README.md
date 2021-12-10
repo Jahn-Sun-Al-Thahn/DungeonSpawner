@@ -1,2 +1,2 @@
-# OOBCPLUSPLUS
-A Repository for the Object oriented C++ class.
+# C++
+A Repository for C++ programs.
